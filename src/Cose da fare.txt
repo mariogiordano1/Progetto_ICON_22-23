@@ -1,0 +1,8 @@
+- Droppare Durango per valori assurdi
+- Riempire i valori mancanti (Wikidata?)
+- Separare le nulle per Paese mancante e riempirle. -> Fatto
+- Su test.csv riempire i valori
+- SPARQL-Client Python
+- Automatizzare le raccolte dei dati
+
+

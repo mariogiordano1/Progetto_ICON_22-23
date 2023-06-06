@@ -1,0 +1,8 @@
+SELECT ?country ?countryLabel
+WHERE
+{
+  ?country wdt:P1566 "5851349";
+  ?countryLabel wdt:P17.
+}
+
+// Example query pls <Giovanni>
