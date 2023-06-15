@@ -1,0 +1,187 @@
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia (Plurinational State of)
+Bosnia and Herzegovina
+Botswana
+Brazil
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czechia
+Côte d'Ivoire
+Democratic Republic of the Congo
+Denmark
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Faroe Islands
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran (Islamic Republic of)
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kingdom of Eswatini
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Mauritania
+Mauritius
+Mexico
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of Ireland
+Republic of Korea
+Republic of Moldova
+Republic of North Macedonia
+Romania
+Russia
+Russian Federation
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+State of Palestine
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Syrian Arab Republic
+Tajikistan
+Tanzania
+Thailand
+The Bahamas
+The Gambia
+Togo
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United Kingdom of Great Britain and Northern Ireland
+United Republic of Tanzania
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela (Bolivarian Republic of)
+Viet Nam
+Yemen
+Zambia
+Zimbabwe
