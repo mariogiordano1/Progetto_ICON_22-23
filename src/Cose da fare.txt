@@ -5,4 +5,30 @@
 - SPARQL-Client Python
 - Automatizzare le raccolte dei dati
 
+----- 12/06
 
+1.Query SPARQL per prendere punti (coordinate) a caso nelle cittá (DBPedia/Wikidata, vedere articolo Tehran)
+2.Passare le coordinate all'api salvata nei preferiti per ottenre JSON con dati relativi all'AQI
+3.Integrare i Dati con il Dataset Completo (Dataset_Completato_PLS.csv)
+4.Integrare i Dati esistenti con nuove colonne (esempio PM10, SO2, provienti da API).
+
+
+-----
+?? Prolog
+
+Query da Pulire. VEdere tizio stackoverflow salvato nei preferiti.
+
+SELECT ?univ ?lat ?lon ?countrylabel ?citylabel
+        WHERE
+        {
+          ?univ rdf:type dbo:University.
+          ?univ dbo:city dbr:London.
+          ?univ geo:lat ?lat.
+          ?univ geo:long ?lon.
+          ?univ dbo:country ?country.
+          ?univ dbo:city ?city.
+          ?country rdfs:label ?countrylabel.
+          ?city rdfs:label ?citylabel.
+          FILTER(LANG(?countrylabel) = "en").
+          FILTER(LANG(?citylabel) = "en").
+         }
