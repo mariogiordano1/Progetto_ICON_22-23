@@ -2,19 +2,25 @@ import sys
 
 import pandas as pd
 from pathlib2 import Path
+import csv
 from SPARQLWrapper import SPARQLWrapper, JSON, TURTLE, RDFXML, RDF, TSV, CSV
 
 
 def sparql_query():
-    file = open("Database/TXTS/Countries_No_Duplicate.txt", 'r', newline="\n")
+    with open('Database/CSVS/Capitals-Complete.csv', 'r', encoding="windows-1252") as f_in, open(
+            "Database/TXTS/Capitals-Complete.txt", "w", encoding="windows-1252") as f_out:
+        content = f_in.read().replace(',', ' ')
+        f_out.write(content)
+
+    file = open("Database/TXTS/Capitals-Complete.txt", 'r', newline="\n")
 
     file_to_list = file.read().splitlines()
 
     for cityname in file_to_list:
         endpoint_url = "https://dbpedia.org/sparql"
-        file_output = open(f"""Database/CSVS/Database.csv""", 'a', newline="\n")
+        file_output = open(f"""Database/CSVS/Universities_OnlyCoords.csv""", 'a', newline="\n")
         print(file.readlines())
-        query = f"""SELECT DISTINCT ?unilabel?lat ?lon ?countrylabel ?citylabel
+        query = f"""SELECT DISTINCT ?lat ?lon
             WHERE
             {{
               ?univ rdf:type dbo:University.
@@ -40,6 +46,33 @@ def sparql_query():
         file_output.write(str(sparql.query().convert()) + "\n")
 
 
+def define_rows(file_path):
+    file = Path(file_path)
+    data = file.read_text()
+    data = data.replace("\\n", "\n")
+    data = data.replace("b\'\"lat\",\"lon\"", "")
+    data = data.replace('\"b\'\"\"lat\"\"\",lon', "")
+    data = data.replace("\'", "")
+    file.write_text(data)
+    file_output = "Database/CSVS/Universities_Cleaned.csv"
+    remove_blank_spaces(file_path, file_output)
 
 
-sparql_query()
+def remove_blank_spaces(file_path_original, file_path_output):
+    with open(file_path_original, newline='', errors='ignore', encoding="windows-1252") as in_file:
+        with open(file_path_output, 'w', newline='', encoding="windows-1252") as out_file:
+            writer = csv.writer(out_file)
+            for row in csv.reader(in_file):
+                if row:
+                    writer.writerow(row)
+
+
+def remove_duplicates(file_path):
+    df = pd.read_csv(file_path, header=None, names=["lat", "long"], encoding="windows-1252")
+    df = df.drop_duplicates()
+    df.to_csv("Database/CSVS/Universities_No_Dupes.csv", index=False)
+
+
+#sparql_query()
+define_rows("Database/CSVS/Universities_OnlyCoords.csv")
+remove_duplicates("Database/CSVS/Universities_Cleaned.csv")
