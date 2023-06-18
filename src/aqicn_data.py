@@ -15,8 +15,6 @@ def get_data(file_path):
         r = requests.get(
             f"""https://api.waqi.info/feed/geo:{lat};{long}/?token=12f1f5758ff0027428dd7a64bbe1c50c7b10206b""")
         print(r.json())
-        if r.status_code != 200:
-            raise ValueError
         data = r.json()
         with open('Database/JSONS/API_data.json', 'w') as f:
             json.dump(data, f)
