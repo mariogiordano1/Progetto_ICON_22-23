@@ -51,8 +51,8 @@ df_completo = df_completo.rename(columns={"AQI Value": "AQI_Value", "AQI Categor
                                           "PM2.5 AQI Value": "PM2_5_AQI_Value","PM2.5 AQI Category": "PM2_5_AQI_Category",
                                           "lat":"Lat", "lng": "Lng"
                                           })
-df_completo.drop(columns=["Unnamed: 0"]).to_csv("Database/Dataset_Completato_PLS.csv", index=False)
-#pd.merge(sort,df_finale, left_index = True, right_on="").to_csv("Database/Dataset_Completato_PLS.csv")
+df_completo.drop(columns=["Unnamed: 0"]).to_csv("Database/Dataset_Completato.csv", index=False)
+#pd.merge(sort,df_finale, left_index = True, right_on="").to_csv("Database/Dataset_Completato.csv")
 
 
 ''' 

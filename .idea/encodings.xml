@@ -6,6 +6,8 @@
     <file url="file://$PROJECT_DIR$/src/Database/CSVS/Capitals.csv" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/Database/CSVS/Universities.csv" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/Database/CSVS/Universities_Cleaned.csv" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Database/CSVS/Universities_No_Dupes.csv" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/Database/JSONS/API_Data_test.txt" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/Database/TXTS/Capitals-Complete.txt" charset="windows-1252" />
   </component>
 </project>

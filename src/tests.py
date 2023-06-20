@@ -1,5 +1,5 @@
 import pandas as pd
-df_completo = pd.read_csv("Database/Dataset_Completato_PLS.csv")
+df_completo = pd.read_csv("Database/Dataset_Completato.csv")
 db_cities = df_completo["Country"]
 db_cities.to_csv("Database/Countries.txt", index=False)
 infile = "Database/Countries.txt"

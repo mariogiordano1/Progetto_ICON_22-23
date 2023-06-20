@@ -2,9 +2,11 @@ import sys
 
 import pandas as pd
 from SPARQLWrapper import SPARQLWrapper, JSON, TURTLE, RDFXML, RDF, TSV
-file = open("Database/city.txt", 'r', newline="\n")
+file = open("Database/TXTS/city.txt", 'r', newline="\n")
 file_to_list = file.read().splitlines()
-
+'''
+Query per completare il Dataset iniziale
+'''
 
 for cityname in file_to_list:
     endpoint_url = "https://query.wikidata.org/sparql"
