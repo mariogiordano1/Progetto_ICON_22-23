@@ -53,31 +53,8 @@ def remove_blank_spaces_txt():
                 o.write(line)
 
 
-def append_parent():
-    file = open("Database/JSONS/API_Data_Complete.txt", mode='a+', encoding='windows-1252')
-    file.write("}")
-    file.close()
-    p = Path("Database/JSONS/API_Data_Complete.txt", encoding='windows-1252')
-    p.rename(p.with_suffix('.json'))
+#get_data("Database/CSVS/Universities_No_Dupes.csv")
+#change_encoding("Database/JSONS/API_data_TESTING.json")
+#format_file("Database/JSONS/API_data_TESTING.json")
 
 
-def filter_data(file_path):
-    with open(file_path) as f:
-        file_to_list = f.read().splitlines()
-        with open("Database/JSONS/test.txt", 'w') as o:
-            for line in file_to_list:
-                text = re.findall('"attribute":', line)
-                o.write(str(text))
-
-
-
-
-# get_data("Database/CSVS/Universities_No_Dupes.csv")
-# change_encoding("Database/JSONS/API_data_TESTING.json")
-# format_file("Database/JSONS/API_data_TESTING.json")
-#filter_data("Database/JSONS/API_Data_Complete.json")
-
-
-'''
-  
-'''

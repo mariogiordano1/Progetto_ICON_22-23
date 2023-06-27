@@ -10,7 +10,7 @@ Query per completare il Dataset iniziale
 
 for cityname in file_to_list:
     endpoint_url = "https://query.wikidata.org/sparql"
-    file_output = open("Database/tester.txt", 'a', newline="\n")
+    file_output = open("Database/TXTS/ris.txt", 'a', newline="\n")
     print(file.readlines())
     query = f"""SELECT ?label_en
         WHERE
