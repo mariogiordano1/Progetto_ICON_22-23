@@ -1,0 +1,1342 @@
+Pakistan,Peshawar,Peshawar Cantonment
+Pakistan,Peshawar,Peshawar Cantonment
+Pakistan,Peshawar,Peshawar Cantonment
+Pakistan,Peshawar,Peshawar Cantonment
+Pakistan,Peshawar,Peshawar Cantonment
+Pakistan,Peshawar,Peshawar Cantonment
+Pakistan,Peshawar,Peshawar Cantonment
+Pakistan,Peshawar,Peshawar Cantonment
+North Macedonia,Lazaropole
+North Macedonia,Lazaropole
+North Macedonia,Lazaropole
+North Macedonia,Lazaropole
+France,Vitry-sur-Seine
+North Macedonia,Lazaropole
+North Macedonia,Lazaropole
+North Macedonia,Lazaropole
+North Macedonia,Lazaropole
+North Macedonia,Lazaropole
+North Macedonia,Lazaropole
+North Macedonia,Lazaropole
+North Macedonia,Lazaropole
+North Macedonia,Lazaropole
+North Macedonia,Lazaropole
+Algeria,El Mouradia
+Algeria,El Mouradia
+Algeria,El Mouradia
+Algeria,El Mouradia
+Algeria,El Mouradia
+Algeria,El Mouradia
+Rwanda,Kigali
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,San Antonio de Padua
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Turkey,Aşağı Aratan,Aralık
+Australia,Canberra,Canberra
+Australia,Canberra,Canberra
+Australia,Canberra
+Australia,Canberra,Canberra
+Australia,Canberra,Canberra
+Australia,Canberra,District of Belconnen
+Australia,Canberra,Canberra
+Australia,Canberra,District of Belconnen
+Australia,Canberra,Canberra
+Austria,Vienna
+Austria,Vienna
+Austria,Vienna
+Austria,Vienna
+Austria,Gemeinde Klosterneuburg
+Austria,Vienna
+Austria,Vienna
+Austria,Vienna
+Austria,Vienna
+Austria,Vienna
+Austria,Vienna
+Austria,Vienna
+Austria,Vienna
+Austria,Vienna
+Austria,Vienna
+Austria,Vienna
+Austria,Vienna
+Austria,Vienna
+Austria,Vienna
+Azerbaijan,Baku
+Azerbaijan,Baku
+Azerbaijan,Baku
+Azerbaijan,Baku
+Azerbaijan,Baku
+Azerbaijan,Baku
+Azerbaijan,Baku
+Azerbaijan,Baku
+Azerbaijan,Baku
+Azerbaijan,Baku
+Bahrain,Manama
+Bahrain,Manama
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+Bangladesh,Dhaka
+France,Sainte-Luce
+France,Sainte-Luce
+France,Sainte-Luce
+Lithuania,Vilnius
+Lithuania,Vilnius
+Lithuania,Vilnius
+Lithuania,Vilnius
+Lithuania,Vilnius
+Lithuania,Vilnius
+Lithuania,Vilnius
+Lithuania,Vilnius
+Lithuania,Vilnius
+Lithuania,Vilnius
+Guatemala,Guatemala City
+Nigeria,Abuja
+Bosnia and Herzegovina,Sarajevo
+Bosnia and Herzegovina,Sarajevo
+Bosnia and Herzegovina,Sarajevo
+Bosnia and Herzegovina,Tuzla
+Bosnia and Herzegovina,Sarajevo
+South Africa,Mahikeng
+South Africa,Mahikeng
+South Africa,Mahikeng
+Brazil,São José do Rio Preto
+Brazil,São José do Rio Preto
+Bulgaria,Sofia
+Bulgaria,Sofia
+Bulgaria,Sofia
+Bulgaria,Varna
+Bulgaria,Sofia
+Bulgaria,Sofia
+Bulgaria,Sofia
+Bulgaria,Sofia
+Bulgaria,Sofia
+Bulgaria,Sofia
+Bulgaria,Sofia
+Bulgaria,Sofia
+Bulgaria,Sofia
+Vietnam,Tây Ninh City
+Vietnam,Tây Ninh City
+Belgium,Liège,Angleur
+Vietnam,Tây Ninh City
+United States,Boston
+Vietnam,Tây Ninh City
+Vietnam,Tây Ninh City
+Vietnam,Tây Ninh City
+Vietnam,Tây Ninh City
+Vietnam,Tây Ninh City
+Vietnam,Tây Ninh City
+Canada,(Old) Ottawa
+Canada,(Old) Ottawa
+Canada,(Old) Ottawa
+Canada,(Old) Ottawa
+Canada,(Old) Ottawa
+Canada,(Old) Ottawa
+Canada,(Old) Ottawa
+Canada,(Old) Ottawa
+Nigeria,Abuja,Abuja
+Chile,Santiago
+Chile,Santiago,Santiago
+Chile,Santiago,La Florida
+Chile,Santiago,Santiago
+Chile,Santiago,Santiago
+Chile,Santiago,Santiago
+Chile,Santiago,Santiago
+Italy,Cerano
+Colombia,Bogota
+Colombia,Bogota
+Colombia,Bogota
+Colombia,Bogota
+Colombia,Bogota
+Colombia,Bogota
+Colombia,Bogota
+Colombia,Bogota
+Colombia,Bogota
+Colombia,Bogota
+Colombia,Bogota
+Colombia,Bogota
+Colombia,Bogota
+Colombia,Bogota
+Colombia,Bogota
+Colombia,Bogota
+Croatia,Zagreb
+Croatia,Zagreb
+Croatia,Zagreb
+Croatia,Zagreb
+Croatia,Zagreb
+Croatia,Zagreb
+Croatia,Zagreb
+Croatia,Zagreb
+Croatia,Zagreb
+Croatia,Zagreb
+Croatia,Zagreb
+United States,Homestead
+United States,Homestead
+United States,Homestead
+United States,Homestead
+United States,Homestead
+United States,Homestead
+United States,Homestead
+Cyprus,Strovolos
+Cyprus,Strovolos
+Cyprus,Strovolos
+Rwanda,Kigali
+Rwanda,Kigali
+France,Marigot
+France,Marigot
+Ecuador,Quito,El Condado
+Ecuador,Quito,Tumbaco
+Trinidad and Tobago,Couva
+Ecuador,Quito,Quito
+Ecuador,Quito,Quito
+Ecuador,Quito,Quito
+Israel,Shaar HaNegev Regional Council,Erez
+Israel,Shaar HaNegev Regional Council,Erez
+Israel,Shaar HaNegev Regional Council,Erez
+Israel,Shaar HaNegev Regional Council,Erez
+Israel,Shaar HaNegev Regional Council,Erez
+Israel,Shaar HaNegev Regional Council,Erez
+Israel,Shaar HaNegev Regional Council,Erez
+Israel,Shaar HaNegev Regional Council,Erez
+Israel,Shaar HaNegev Regional Council,Erez
+Israel,Shaar HaNegev Regional Council,Erez
+Israel,Shaar HaNegev Regional Council,Erez
+Israel,Shaar HaNegev Regional Council,Erez
+Israel,Shaar HaNegev Regional Council,Erez
+Israel,Shaar HaNegev Regional Council,Erez
+El Salvador,San Salvador
+El Salvador,San Salvador
+El Salvador,San Salvador
+Nigeria,Abuja,Abuja
+Saudi Arabia,Jeddah
+Estonia,Tallinn
+Estonia,Tallinn
+Estonia,Tallinn
+Estonia,Tallinn
+Estonia,Tallinn
+Estonia,Tallinn
+Estonia,Tallinn
+Estonia,Tallinn
+Estonia,Tallinn
+Estonia,Tallinn
+Ethiopia,Addiss Abeba
+Ethiopia,Addiss Abeba
+Ethiopia,Addiss Abeba
+Ethiopia,Addiss Abeba
+Ethiopia,Addiss Abeba
+Ethiopia,Addiss Abeba
+Ethiopia,Addiss Abeba
+Ethiopia,Addiss Abeba
+Ethiopia,Addiss Abeba
+Ethiopia,Addiss Abeba
+Ethiopia,Addiss Abeba
+Finland,Helsinki
+Finland,Helsinki
+Finland,Espoo
+Finland,Helsinki
+Finland,Helsinki
+Finland,Helsinki
+Finland,Pori
+Finland,Helsinki
+Finland,Helsinki
+Finland,Helsinki
+Finland,Helsinki
+France,Paris
+France,Paris
+France,Rennes
+France,Montlhéry
+France,Paris
+France,Paris
+France,Issy-les-Moulineaux
+France,Puteaux
+France,Strasbourg
+France,Paris
+France,Pantin
+France,Paris
+France,Paris
+France,Vitry-sur-Seine
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+Italy,Cerano
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Pantin
+France,Saint-Denis
+France,Paris
+France,Paris
+France,Paris
+France,Rennes
+United Kingdom,City of Westminster,Camden Town
+France,Issy-les-Moulineaux
+France,Paris
+France,Montlhéry
+France,Talence
+France,Montlhéry
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Toulouse
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Pantin
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Nogent-sur-Marne
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Paris
+France,Issy-les-Moulineaux
+France,Paris
+France,Paris
+France,Puteaux
+France,Pantin
+France,Paris
+France,Pantin
+France,Paris
+France,Paris
+Germany,Berlin
+Germany,Berlin
+Germany,Berlin
+Germany,Berlin
+Germany,Berlin
+United Kingdom,London
+Germany,Berlin
+Germany,Berlin
+Germany,Berlin
+Germany,Hanover
+Germany,Berlin
+Germany,Berlin
+Germany,Berlin
+Germany,Berlin
+Germany,Berlin
+Germany,Berlin
+United Kingdom,Manor Royal,Crawley
+Germany,Berlin
+Germany,Berlin
+Germany,Berlin
+Germany,Berlin
+Germany,Berlin
+Germany,Berlin
+Nigeria,Abuja
+Nigeria,Abuja
+Nigeria,Abuja
+Nigeria,Abuja
+Nigeria,Abuja
+Nigeria,Abuja
+Nigeria,Abuja
+Nigeria,Abuja
+Nigeria,Abuja
+Nigeria,Abuja
+Nigeria,Abuja
+Nigeria,Abuja
+Nigeria,Abuja
+Côte d'Ivoire,Cocody
+Greece,Athens
+Greece,Athens
+Greece,Athens
+Greece,Athens
+Greece,Athens
+Greece,Athens
+Greece,Piraeus
+Greece,Athens
+Greece,Athens
+Greece,Municipal Unit of Cholargos
+Greece,Piraeus
+Guatemala,Guatemala City
+Guatemala,Guatemala City
+Guatemala,Guatemala City
+Guatemala,Guatemala City
+Guatemala,Guatemala City
+Côte d'Ivoire,Cocody
+France,Marigot
+France,Marigot
+France,Marigot
+France,Marigot
+France,Marigot
+El Salvador,Reparto Lomas del Río
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+France,Angers
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Slovakia,Plášťovce
+Iceland,Reykjavik
+Iceland,Reykjavik
+Iceland,Reykjavik
+Iceland,Reykjavik
+Iceland,Reykjavik
+India,New Delhi
+India,New Delhi,Dehradun
+India,New Delhi,New Delhi
+India,New Delhi
+India,New Delhi,New Delhi
+Indonesia,Special Capital Region of Jakarta
+Indonesia,Special Capital Region of Jakarta
+Indonesia,Special Capital Region of Jakarta
+Indonesia,Special Capital Region of Jakarta
+Indonesia,Special Capital Region of Jakarta
+Indonesia,Special Capital Region of Jakarta
+Indonesia,Special Capital Region of Jakarta
+Indonesia,Special Capital Region of Jakarta
+Indonesia,Special Capital Region of Jakarta
+Iran,دهستان الوند
+Iran,دهستان الوند
+Iran,دهستان الوند
+Iran,دهستان الوند
+Iran,دهستان الوند
+Iran,دهستان الوند
+Iran,دهستان الوند
+Iran,دهستان الوند
+Iran,دهستان الوند
+Iran,دهستان الوند
+Israel,Jerusalem
+Israel,Jerusalem
+Israel,Jerusalem
+Israel,Jerusalem
+Israel,Jerusalem
+Palestinian Territory,Beitar Ilit
+Israel,Jerusalem
+Israel,Jerusalem
+Israel,Jerusalem
+Israel,Jerusalem
+Israel,Jerusalem
+Israel,Jerusalem
+Israel,Jerusalem
+Italy,Rome,Osteria del Curato
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome,Osteria del Curato
+Italy,Cerano
+Italy,Rome,Osteria del Curato
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome,Settecamini
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Italy,Rome
+Japan,Bunkyo
+Japan,Hino
+Japan,Minato
+Japan,Shibuya
+Japan,Shibuya
+Japan,Shibuya
+Japan,Minato
+Japan,Sagamihara
+Japan,Nakano
+Japan,Samukawa
+Japan,Shibuya
+Japan,Suginami
+Japan,Bunkyo
+Japan,Chiyoda
+Japan,Bunkyo
+Japan,Bunkyo
+Japan,Setagaya
+Jordan,Amman
+Jordan,Amman,Amman
+Jordan,Amman,Dabouq
+Jordan,Amman
+Jordan,Amman,Amman
+Jordan,Amman
+Kazakhstan,Astana
+Kazakhstan,Astana
+Kazakhstan,Astana
+Kenya,Nairobi
+Kenya,Nairobi
+Kenya,Nairobi
+Kenya,Nairobi
+Kenya,Nairobi
+Kenya,Nairobi
+Kenya,Nairobi
+Kenya,Nairobi
+Kenya,Nairobi
+Kenya,Nairobi
+Kenya,Nairobi
+Kenya,Nairobi
+Kenya,Nairobi
+Kyrgyzstan,Bishkek City
+Kyrgyzstan,Bishkek City
+Kyrgyzstan,Bishkek City
+Kyrgyzstan,Bishkek City
+Kyrgyzstan,Bishkek City
+Kyrgyzstan,Bishkek City
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Lithuania,Naujoji Akmenė
+Israel,Mate Asher Regional Council,Kfar Masarik
+Israel,Mate Asher Regional Council,Kfar Masarik
+Israel,Mate Asher Regional Council,Kfar Masarik
+Israel,Mate Asher Regional Council,Kfar Masarik
+Israel,Mate Asher Regional Council,Kfar Masarik
+Israel,Mate Asher Regional Council,Kfar Masarik
+Israel,Mate Asher Regional Council,Kfar Masarik
+Israel,Mate Asher Regional Council,Kfar Masarik
+Côte d'Ivoire,Cocody
+Côte d'Ivoire,Cocody
+Côte d'Ivoire,Cocody
+Côte d'Ivoire,Cocody
+Lithuania,Noreikiškės
+Lithuania,Vilnius
+Lithuania,Vilnius
+Lithuania,Vilnius
+Lithuania,Vilnius
+Lithuania,Vilnius
+Lithuania,Vilnius
+Lithuania,Klaipėda
+Lithuania,Vilnius
+Lithuania,Vilnius
+Madagascar,Antananarivo
+Madagascar,Antananarivo
+Bangladesh,Dhaka
+Malaysia,Kuala Selangor
+Malaysia,Kuala Lumpur
+Malaysia,Petaling Jaya
+Malaysia,Kuala Lumpur
+Malaysia,Kuala Lumpur
+Malaysia,Kuala Lumpur
+Malaysia,Kuala Lumpur
+Malaysia,Kuala Lumpur
+Malaysia,Nilai
+Malaysia,Kuala Lumpur
+India,New Delhi,Thiruvananthapuram
+India,New Delhi,Thiruvananthapuram
+Malta,Msida
+Malta,Msida
+Spain,San Bartolomé de Tirajana
+France,Sainte-Suzanne
+Mexico,Mexico City,Ciudad Universitaria
+Mexico,Mexico City,Ciudad Universitaria
+Mexico,Santa Fe
+Mexico,Mexico City
+Mexico,Santa Fe
+Mexico,Mexico City
+Mexico,Santa Fe
+Mexico,Mexico City
+Mexico,Mexico City
+Mexico,Mexico City
+Mexico,Santa Fe
+Mexico,Santa Fe
+Mexico,Santa Fe
+Mexico,Tlalnepantla
+Mexico,Mexico City
+Mexico,Tlalnepantla
+Mexico,Mexico City
+Mexico,Mexico City
+Mexico,Tlalnepantla
+Mexico,Tlalnepantla
+Mexico,Tlalnepantla
+Mexico,Mexico City
+Mexico,Cuernavaca
+Mexico,Santa Fe
+Mexico,Tlalnepantla
+Mexico,Santa Fe
+Mexico,Mexico City,Ciudad Universitaria
+Mexico,Santa Fe
+Mexico,Mexico City
+Mexico,Mexico City
+Mexico,Santa Fe
+Mexico,Mexico City,Ciudad Universitaria
+Mexico,Mexico City,Ciudad Universitaria
+Mexico,Mexico City
+Mexico,Mexico City
+Mongolia,Ulaanbaatar
+Mongolia,Ulaanbaatar
+Mongolia,Ulaanbaatar
+Mongolia,Ulaanbaatar
+Mongolia,Ulaanbaatar
+Mongolia,Ulaanbaatar
+Montenegro,Podgorica
+Montenegro,Podgorica
+Montenegro,Podgorica
+Montenegro,Podgorica
+Montenegro,Podgorica
+Montenegro,Podgorica
+Montenegro,Podgorica
+Montenegro,Podgorica
+Montenegro,Podgorica
+Montenegro,Podgorica
+Montenegro,Podgorica
+Spain,San Fernando
+Spain,Los Barrios
+Spain,Los Barrios
+Spain,Los Barrios
+Spain,Los Barrios
+South Africa,Msukaligwa,Ermelo
+South Africa,Hantam Local Municipality,Nieuwoudtville
+South Africa,Hantam Local Municipality,Nieuwoudtville
+New Zealand,Blenheim
+New Zealand,Taihape
+Costa Rica,Pavas
+Costa Rica,Pavas
+Costa Rica,Pavas
+Costa Rica,Pavas
+Burkina Faso,Ouagadougou
+Burkina Faso,Ouagadougou
+Nigeria,Abuja,Abuja
+Norway,Oslo
+Norway,Oslo
+Norway,Oslo
+Norway,Oslo
+Norway,Oslo
+Norway,Oslo
+Norway,Oslo
+Norway,Oslo
+Norway,Oslo
+Norway,Oslo
+Norway,Oslo
+Norway,Oslo
+Norway,Oslo
+Norway,Oslo
+Norway,Kristiansand
+United Arab Emirates,Al Mutarad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Karachi Division,Saddar
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Pakistan,Islamabad
+Costa Rica,Pavas
+Costa Rica,Pavas
+Costa Rica,Pavas
+Costa Rica,Pavas
+Brazil,Presidente Prudente
+Brazil,Presidente Prudente
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Colombia,Barbosa
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Ecuador,Quito
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Peru,Lima Metropolitan Area
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Taiwan,Hengchun
+Poland,Warsaw
+Poland,Warsaw
+Poland,Warsaw
+Poland,Warsaw
+Poland,Piastów
+Poland,Warsaw
+Poland,Warsaw
+Poland,Warsaw
+Poland,Warsaw
+Poland,Warsaw
+Poland,Warsaw
+Poland,Warsaw
+Poland,Warsaw
+Poland,Warsaw
+Poland,Warsaw
+Poland,Warsaw
+Poland,Warsaw
+Poland,Warsaw
+Portugal,Lisbon
+Portugal,Lisbon
+Portugal,Lisbon
+Portugal,Lisbon
+Portugal,Lisbon
+Portugal,Lisbon
+Portugal,Lisbon
+Portugal,Lisbon
+Portugal,Paços de Ferreira
+Portugal,Lisbon
+Portugal,Lisbon
+Portugal,Lisbon
+Portugal,Lisbon
+Portugal,Lisbon
+Qatar,Al-Shahaniya
+Qatar,Al-Shahaniya
+Qatar,Al-Shahaniya
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Blackrock
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Blanchardstown
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Tallaght
+Ireland,Blackrock
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Dundrum
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Blackrock
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Blackrock
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Dublin
+Ireland,Dublin
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Romania,Bucharest
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Zelenograd
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Russia,Moscow
+Rwanda,Kigali
+Rwanda,Kigali
+France,Marigot
+France,Marigot
+France,Marigot
+France,Sainte-Luce
+France,Sainte-Luce
+Bahrain,Manama
+Bahrain,Manama
+Bahrain,Manama
+Bahrain,Manama
+Bahrain,Manama
+Bahrain,Manama
+Bahrain,Manama
+Bahrain,Manama
+Bahrain,Manama
+Bahrain,Manama
+Spain,Valverde
+Spain,Valverde
+Spain,Valverde
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Serbia,Belgrade
+Côte d'Ivoire,Cocody
+Côte d'Ivoire,Cocody
+Côte d'Ivoire,Cocody
+Slovakia,Bratislava
+Slovakia,Bratislava
+Slovakia,Bratislava
+Slovakia,Bratislava
+Slovakia,Bratislava
+Slovakia,Bratislava
+Slovakia,Bratislava
+Slovenia,Ljubljana
+Slovenia,Ljubljana
+Slovenia,Kromberk,Nova Gorica
+Slovenia,Ljubljana
+Australia,Canberra,Mackay
+Kenya,Nairobi
+Kenya,Nairobi
+South Africa,Bellville
+South Africa,Parow
+South Africa,Cape Town
+South Africa,Cape Town
+Malta,Żejtun
+South Africa,Cape Town
+South Africa,Cape Town
+South Africa,Cape Town
+South Africa,Cape Town
+South Africa,Cape Town
+South Africa,Cape Town
+Rwanda,Kigali
+Spain,Madrid
+Spain,Madrid
+Spain,Madrid
+Spain,Madrid
+Spain,Madrid
+Spain,Madrid
+Spain,Barcelona
+Spain,Madrid
+Spain,Madrid
+Spain,Madrid
+Spain,Madrid
+Spain,Madrid
+Spain,Madrid
+Saudi Arabia,Jeddah
+Saudi Arabia,Jeddah
+Saudi Arabia,Jeddah
+Saudi Arabia,Jeddah
+Saudi Arabia,Jeddah
+Saudi Arabia,Jeddah
+Saudi Arabia,Jeddah
+Saudi Arabia,Jeddah
+Saudi Arabia,Jeddah
+Saudi Arabia,Jeddah
+Saudi Arabia,Jeddah
+Saudi Arabia,Jeddah
+France,Kourou
+Sweden,Sollentuna kommun
+Sweden,Stockholm
+Sweden,Stockholm
+Sweden,Stockholm
+Sweden,Stockholm
+Sweden,Stockholm
+Sweden,Stockholm
+Sweden,Stockholm
+Sweden,Stockholm
+Switzerland,Bern
+Switzerland,Opfikon
+Switzerland,Bern
+Jordan,Amman,Irbid
+Jordan,Amman,Irbid
+Jordan,Amman,Irbid
+Jordan,Amman,Irbid
+Tajikistan,Dushanbe
+Tajikistan,Dushanbe
+Tajikistan,Dushanbe
+Tajikistan,Dushanbe
+Kenya,Nairobi
+Kenya,Nairobi
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok
+Thailand,Bangkok,Om Noi
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok,Pak Kret City Municipality
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok,Om Noi
+Thailand,Bangkok,Khlong Luang Town Municipality
+Thailand,Bangkok,Samut Songkhram
+Thailand,Bangkok,Khlong Luang Town Municipality
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok,Pak Kret City Municipality
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok,Saraburi
+Thailand,Bangkok
+Thailand,Bangkok
+Thailand,Bangkok
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok,Phra Pradaeng Town Municipality
+Thailand,Bangkok,Pak Kret City Municipality
+Thailand,Bangkok,Pak Kret City Municipality
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok,Pak Kret City Municipality
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok
+Thailand,Bangkok,Pak Kret City Municipality
+Thailand,Bangkok
+Thailand,Bangkok,Bangkok
+Thailand,Bangkok,Khlong Luang Town Municipality
+Nigeria,Abuja
+Malta,Għarb
+Malta,Għarb
+Malta,Għarb
+Malta,Għarb
+Malta,Għarb
+Malta,Għarb
+Malta,Għarb
+Malta,Għarb
+Turkey,Çankaya
+Turkey,Ankara,Çankaya
+Turkey,Yeşilkent,Çankaya
+Turkey,Ankara,Çankaya
+Turkey,Ankara,Çankaya
+Turkey,Çankaya
+Turkey,Yenimahalle
+Turkey,Yenimahalle
+Turkey,Çankaya
+Turkey,Ankara,Çankaya
+Turkey,Ankara,Çankaya
+Turkey,Ankara,Çankaya
+Turkmenistan,Ashgabat City
+Turkmenistan,Ashgabat City
+Turkmenistan,Ashgabat City
+Turkmenistan,Ashgabat City
+Turkmenistan,Ashgabat City
+Turkmenistan,Ashgabat City
+Turkmenistan,Ashgabat City
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Rwanda,Kigali
+Romania,Ungheni
+Romania,Ungheni
+Turkey,Sinop
+Romania,Ungheni
+Romania,Ungheni
+Portugal,Ribeirinha
+Romania,Ungheni
+Romania,Ungheni
+Romania,Ungheni
+Romania,Ungheni
+Romania,Ungheni
+Romania,Ungheni
+Romania,Ungheni
+Romania,Ungheni
+Romania,Ungheni
+Romania,Ungheni
+Romania,Ungheni
+Romania,Ungheni
+Romania,Ungheni
+United Arab Emirates,Rabdan
+United Arab Emirates,Dubai
+United Arab Emirates,Al Tiwayya
+United Arab Emirates,Abu Dhabi
+France,Fontainebleau
+United Arab Emirates,Abu Dhabi
+United Kingdom,London
+United Kingdom,London
+United Kingdom,City of Westminster
+United Kingdom,London
+United Kingdom,City of Westminster
+United Kingdom,London
+United Kingdom,Belfast
+United Kingdom,London
+United Kingdom,City of London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,City of Westminster,Camden Town
+United Kingdom,London
+United Kingdom,Clydebank
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,City of Westminster,Camden Town
+United Kingdom,London
+United Kingdom,City of Westminster
+United Kingdom,London
+United Kingdom,City of London
+United Kingdom,City of London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,City of Westminster,Camden Town
+United Kingdom,Stoke-on-Trent,Hanley
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,City of Westminster
+United Kingdom,City of London
+United Kingdom,City of London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,Coventry,Allesley
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,City of London
+United Kingdom,City of Westminster
+United Kingdom,City of Westminster,Camden Town
+United Kingdom,City of Westminster
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,City of Westminster
+United Kingdom,City of Westminster
+United Kingdom,City of Westminster,Camden Town
+United Kingdom,City of Westminster
+United Kingdom,City of London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,City of Westminster
+United Kingdom,City of Westminster
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,London
+United Kingdom,City of Westminster,Camden Town
+United Kingdom,City of London
+United Kingdom,Howgate
+United Kingdom,London
+United Kingdom,London
+United Kingdom,City of London
+United Kingdom,City of Westminster,Camden Town
+United Kingdom,City of Westminster,Camden Town
+United Kingdom,City of London
+United Kingdom,London
+United Kingdom,City of Westminster,Camden Town
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Argentina,Dock Sud
+Uzbekistan,Tashkent
+Uzbekistan,Tashkent
+Uzbekistan,Tashkent
+Uzbekistan,Tashkent
+Uzbekistan,Tashkent
+Uzbekistan,Tashkent
+Uzbekistan,Tashkent
+Uzbekistan,Tashkent
+Uzbekistan,Tashkent
+Uzbekistan,Tashkent
+Uzbekistan,Tashkent
+Uzbekistan,Tashkent
+Uzbekistan,Tashkent
+Uzbekistan,Tashkent
+Saudi Arabia,Jeddah
+South Africa,Lephalale Local Municipality,Lephalale
+South Africa,Mogalakwena Local Municipality,Sekgakgapeng
+South Africa,Mogalakwena Local Municipality,Sekgakgapeng
+South Africa,Mogalakwena Local Municipality,Sekgakgapeng
+South Africa,Mogalakwena Local Municipality,Sekgakgapeng
