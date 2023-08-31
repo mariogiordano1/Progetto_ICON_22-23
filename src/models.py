@@ -18,7 +18,7 @@ from collections import Counter
 from matplotlib import pyplot
 from scipy.stats import zscore
 from sklearn.inspection import permutation_importance
-
+from sklearn.model_selection import KFold
 
 from sklearn.model_selection import cross_val_score, train_test_split
 from sklearn.cluster import KMeans
@@ -28,7 +28,6 @@ from sklearn.neighbors import KNeighborsClassifier
 df = pd.read_csv("Database/CSVS/merged_files.csv", index_col=False)
 df_finale = df.drop(columns=["Country", "City", "CO_AQI_Category", "Ozone_AQI_Category",
                          "NO2_AQI_Category", "PM2_5_AQI_Category", "Unnamed: 0", "PM10_Category", "AQI_Value"])
-                         
 
 df_finale.dropna(axis=0, how="any",inplace=True)
 

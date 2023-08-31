@@ -1,0 +1,157 @@
+{
+ "@context": [
+  "https://raw.githubusercontent.com/CLARIAH/COW/master/csvw.json",
+  {
+   "@language": "en",
+   "@base": "http://example.com/resource/"
+  },
+  {
+   "aat": "http://vocab.getty.edu/aat/",
+   "bibo": "http://purl.org/ontology/bibo/",
+   "bio": "http://purl.org/vocab/bio/0.1/",
+   "cidoc": "http://www.cidoc-crm.org/cidoc-crm/",
+   "civ": "https://iisg.amsterdam/id/civ/",
+   "csvw": "http://www.w3.org/ns/csvw#",
+   "dbo": "http://dbpedia.org/ontology/",
+   "dc": "http://purl.org/dc/terms/",
+   "dc11": "http://purl.org/dc/elements/1.1/",
+   "dcterms": "http://purl.org/dc/terms/",
+   "ecpo": "http://purl.org/ontology/ecpo#",
+   "foaf": "http://xmlns.com/foaf/0.1/",
+   "frbr": "http://purl.org/spar/frbr/core#",
+   "geo": "http://www.opengis.net/ont/geosparql#",
+   "geonames": "http://www.geonames.org/ontology#",
+   "gvp": "http://vocab.getty.edu/ontology#",
+   "juso": "http://http://rdfs.co/juso/",
+   "lemon": "http://lemon-model.net/lemon#",
+   "midi": "http://purl.org/midi-ld/midi#",
+   "np": "http://www.nanopub.org/nschema#",
+   "owl": "http://www.w3.org/2002/07/owl#",
+   "periodo": "http://n2t.net/ark:/99152/p0v#",
+   "pnv": "https://www.lodewijkpetram.nl/vocab/pnv/doc/",
+   "prov": "http://www.w3.org/ns/prov#",
+   "qb": "http://purl.org/linked-data/cube#",
+   "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+   "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+   "schema": "http://schema.org/",
+   "sdmx-concept": "http://purl.org/linked-data/sdmx/2009/concept#",
+   "sdr": "http://example.com/resource/",
+   "sdv": "http://example.com/resource/vocab/",
+   "sem": "http://semanticweb.cs.vu.nl/2009/11/sem/",
+   "skos": "http://www.w3.org/2004/02/skos/core#",
+   "time": "http://www.w3.org/2006/time#",
+   "ulan": "http://vocab.getty.edu/ulan/",
+   "wgs84": "http://www.w3.org/2003/01/geo/wgs84_pos#",
+   "xml": "http://www.w3.org/XML/1998/namespace/",
+   "xsd": "http://www.w3.org/2001/XMLSchema#"
+  }
+ ],
+ "tableSchema": {
+  "aboutUrl": "{_row}",
+  "primaryKey": "City",
+  "columns": [
+   {
+    "name": "Country",
+    "datatype": "string",
+    "propertyUrl" : "http://dbpedia.org/ontology/country"
+   },
+   {
+    "name": "City",
+    "datatype": "string",
+    "propertyUrl" : "http://dbpedia.org/ontology/city"
+   },
+   {
+    "name": "AQI_Value",
+    "datatype": "integer",
+    "@id": "http://example.com/resource/merged_files.csv/column/AQI_Value"
+   },
+   {
+    "name": "AQI_Category",
+    "datatype": "string",
+    "@id": "http://example.com/resource/merged_files.csv/column/AQI_Category"
+   },
+   {
+    "name": "CO_AQI_Value",
+    "datatype": "integer",
+    "@id": "http://example.com/resource/merged_files.csv/column/CO_AQI_Value"
+   },
+   {
+    "name": "CO_AQI_Category",
+    "datatype": "string",
+    "@id": "http://example.com/resource/merged_files.csv/column/CO_AQI_Category"
+   },
+   {
+    "name": "Ozone_AQI_Value",
+    "datatype": "integer",
+    "@id": "http://example.com/resource/merged_files.csv/column/Ozone_AQI_Value"
+   },
+   {
+    "name": "Ozone_AQI_Category",
+    "datatype": "string",
+    "@id": "http://example.com/resource/merged_files.csv/column/Ozone_AQI_Category"
+   },
+   {
+    "name": "NO2_AQI_Value",
+    "datatype": "integer",
+    "@id": "http://example.com/resource/merged_files.csv/column/NO2_AQI_Value"
+   },
+   {
+    "name": "NO2_AQI_Category",
+    "datatype": "string",
+    "@id": "http://example.com/resource/merged_files.csv/column/NO2_AQI_Category"
+   },
+   {
+    "name": "PM2_5_AQI_Value",
+    "datatype": "integer",
+    "@id": "http://example.com/resource/merged_files.csv/column/PM2_5_AQI_Value"
+   },
+   {
+    "name": "PM2_5_AQI_Category",
+    "datatype": "string",
+    "@id": "http://example.com/resource/merged_files.csv/column/PM2_5_AQI_Category"
+   },
+   {
+    "name": "Lat",
+    "datatype": "xsd:float",
+    "propertyUrl" : "http://www.w3.org/2003/01/geo/wgs84_pos#lat"
+   },
+   {
+    "name": "Lng",
+    "datatype": "xsd:float",
+    "propertyUrl" : "http://www.w3.org/2003/01/geo/wgs84_pos#long"
+   },
+   {
+    "name": "PM10",
+    "datatype": "decimal",
+    "@id": "http://example.com/resource/merged_files.csv/column/PM10"
+   },
+   {
+    "name": "PM10_Category",
+    "datatype": "string",
+    "@id": "http://example.com/resource/merged_files.csv/column/PM10_Category"
+   }
+  ]
+ },
+ "url": "merged_files.csv",
+ "dialect": {
+  "delimiter": ",",
+  "encoding": "utf-8",
+  "quoteChar": "\""
+ },
+ "dc:title": "merged_files.csv",
+ "dcat:keyword": [],
+ "dc:publisher": {
+  "schema:name": "CLARIAH Structured Data Hub - Datalegend",
+  "schema:url": {
+   "@id": "http://datalegend.net"
+  }
+ },
+ "dc:license": {
+  "@id": "http://opendefinition.org/licenses/cc-by/"
+ },
+ "dc:modified": {
+  "@value": "2023-08-26",
+  "@type": "xsd:date"
+ },
+ "@id": "http://example.com/resource/merged_files.csv"
+}

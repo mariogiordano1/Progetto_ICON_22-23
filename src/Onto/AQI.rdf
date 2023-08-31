@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="http://aqi.org/"
+         xmlns="http://aqi.org/">
+
+<owl:Ontology rdf:about="http://aqi.org"/>
+
+<owl:DatatypeProperty rdf:about="PM25Concentration">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  <rdfs:domain rdf:resource="ParticulateMatter2_5"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="PM10Concentration">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  <rdfs:domain rdf:resource="ParticulateMatter10"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="OzoneConcentration">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  <rdfs:domain rdf:resource="Ozone"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="NO2Concentration">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  <rdfs:domain rdf:resource="NitrogenDioxide"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="SO2Concentration">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  <rdfs:domain rdf:resource="SulfurDioxide"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="SO3Concentration">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  <rdfs:domain rdf:resource="SulfurTrioxide"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="COConcentration">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  <rdfs:domain rdf:resource="CarbonMonoxide"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="CO2Concentration">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  <rdfs:domain rdf:resource="CarbonDioxide"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="AQIValue">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+  <rdfs:domain rdf:resource="AQI"/>
+</owl:DatatypeProperty>
+
+<owl:Class rdf:about="Observations">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="Pollutant">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="WeatherCondition">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="AQI">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="AirPollutants">
+  <rdfs:subClassOf rdf:resource="Pollutant"/>
+</owl:Class>
+
+<owl:Class rdf:about="DirectContributor">
+  <rdfs:subClassOf rdf:resource="AirPollutants"/>
+</owl:Class>
+
+<owl:Class rdf:about="IndirectContributor">
+  <rdfs:subClassOf rdf:resource="AirPollutants"/>
+</owl:Class>
+
+<owl:Class rdf:about="GaseousPollutant">
+  <rdfs:subClassOf rdf:resource="DirectContributor"/>
+</owl:Class>
+
+<owl:Class rdf:about="SulfurOxides">
+  <rdfs:subClassOf rdf:resource="GaseousPollutant"/>
+</owl:Class>
+
+<owl:Class rdf:about="SulfurDioxide">
+  <rdfs:subClassOf rdf:resource="SulfurOxides"/>
+</owl:Class>
+
+<owl:Class rdf:about="SulfurTrioxide">
+  <rdfs:subClassOf rdf:resource="SulfurOxides"/>
+</owl:Class>
+
+<owl:Class rdf:about="NitrogenOxides">
+  <rdfs:subClassOf rdf:resource="GaseousPollutant"/>
+</owl:Class>
+
+<owl:Class rdf:about="NitrogenMonoxide">
+  <rdfs:subClassOf rdf:resource="NitrogenOxides"/>
+</owl:Class>
+
+<owl:Class rdf:about="NitrogenDioxide">
+  <rdfs:subClassOf rdf:resource="NitrogenOxides"/>
+</owl:Class>
+
+<owl:Class rdf:about="CarbonOxides">
+  <rdfs:subClassOf rdf:resource="GaseousPollutant"/>
+</owl:Class>
+
+<owl:Class rdf:about="CarbonMonoxide">
+  <rdfs:subClassOf rdf:resource="CarbonOxides"/>
+</owl:Class>
+
+<owl:Class rdf:about="CarbonDioxide">
+  <rdfs:subClassOf rdf:resource="CarbonOxides"/>
+</owl:Class>
+
+<owl:Class rdf:about="ParticulateMatters">
+  <rdfs:subClassOf rdf:resource="DirectContributor"/>
+</owl:Class>
+
+<owl:Class rdf:about="ParticulateMatter2_5">
+  <rdfs:subClassOf rdf:resource="ParticulateMatters"/>
+</owl:Class>
+
+<owl:Class rdf:about="ParticulateMatter10">
+  <rdfs:subClassOf rdf:resource="ParticulateMatters"/>
+</owl:Class>
+
+<owl:Class rdf:about="Ozone">
+  <rdfs:subClassOf rdf:resource="GaseousPollutant"/>
+</owl:Class>
+
+
+</rdf:RDF>

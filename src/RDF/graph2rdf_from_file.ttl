@@ -1,0 +1,85 @@
+@prefix aqi: <http://aqi.com/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix geo1: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://aqi.com/id/34.4756;69.1264;29/08/2023,17:14:17> a aqi:Observation ;
+    aqi:COConcentration "4005.43"^^xsd:float ;
+    aqi:NO2Concentration "46.61"^^xsd:float ;
+    aqi:OzoneConcentration "62.23"^^xsd:float ;
+    aqi:PM10Concentration "31.44"^^xsd:float ;
+    aqi:PM25Concentration "25.5"^^xsd:float ;
+    dcterms:date "29/08/2023,17:14:17"^^xsd:dateTime ;
+    geo1:lat "34.4756"^^xsd:float ;
+    geo1:long "69.1264"^^xsd:float .
+
+<http://aqi.com/id/34.5144;69.1373;29/08/2023,17:14:16> a aqi:Observation ;
+    aqi:COConcentration "4005.43"^^xsd:float ;
+    aqi:NO2Concentration "46.61"^^xsd:float ;
+    aqi:OzoneConcentration "62.23"^^xsd:float ;
+    aqi:PM10Concentration "31.44"^^xsd:float ;
+    aqi:PM25Concentration "25.5"^^xsd:float ;
+    dcterms:date "29/08/2023,17:14:16"^^xsd:dateTime ;
+    geo1:lat "34.5144"^^xsd:float ;
+    geo1:long "69.1373"^^xsd:float .
+
+<http://aqi.com/id/34.5167;69.1297;29/08/2023,17:14:17> a aqi:Observation ;
+    aqi:COConcentration "4005.43"^^xsd:float ;
+    aqi:NO2Concentration "46.61"^^xsd:float ;
+    aqi:OzoneConcentration "62.23"^^xsd:float ;
+    aqi:PM10Concentration "31.44"^^xsd:float ;
+    aqi:PM25Concentration "25.5"^^xsd:float ;
+    dcterms:date "29/08/2023,17:14:17"^^xsd:dateTime ;
+    geo1:lat "34.5167"^^xsd:float ;
+    geo1:long "69.1297"^^xsd:float .
+
+<http://aqi.com/id/34.5353;69.0733;29/08/2023,17:14:18> a aqi:Observation ;
+    aqi:COConcentration "4005.43"^^xsd:float ;
+    aqi:NO2Concentration "46.61"^^xsd:float ;
+    aqi:OzoneConcentration "62.23"^^xsd:float ;
+    aqi:PM10Concentration "31.44"^^xsd:float ;
+    aqi:PM25Concentration "25.5"^^xsd:float ;
+    dcterms:date "29/08/2023,17:14:18"^^xsd:dateTime ;
+    geo1:lat "34.5353"^^xsd:float ;
+    geo1:long "69.0733"^^xsd:float .
+
+<http://aqi.com/id/34.535;69.1197;29/08/2023,17:14:17> a aqi:Observation ;
+    aqi:COConcentration "4005.43"^^xsd:float ;
+    aqi:NO2Concentration "46.61"^^xsd:float ;
+    aqi:OzoneConcentration "62.23"^^xsd:float ;
+    aqi:PM10Concentration "31.44"^^xsd:float ;
+    aqi:PM25Concentration "25.5"^^xsd:float ;
+    dcterms:date "29/08/2023,17:14:17"^^xsd:dateTime ;
+    geo1:lat "34.535"^^xsd:float ;
+    geo1:long "69.1197"^^xsd:float .
+
+<http://aqi.com/id/34.5367;69.144;29/08/2023,17:14:17> a aqi:Observation ;
+    aqi:COConcentration "4005.43"^^xsd:float ;
+    aqi:NO2Concentration "46.61"^^xsd:float ;
+    aqi:OzoneConcentration "62.23"^^xsd:float ;
+    aqi:PM10Concentration "31.44"^^xsd:float ;
+    aqi:PM25Concentration "25.5"^^xsd:float ;
+    dcterms:date "29/08/2023,17:14:17"^^xsd:dateTime ;
+    geo1:lat "34.5367"^^xsd:float ;
+    geo1:long "69.144"^^xsd:float .
+
+<http://aqi.com/id/34.5494;69.1526;29/08/2023,17:14:17> a aqi:Observation ;
+    aqi:COConcentration "4005.43"^^xsd:float ;
+    aqi:NO2Concentration "46.61"^^xsd:float ;
+    aqi:OzoneConcentration "62.23"^^xsd:float ;
+    aqi:PM10Concentration "31.44"^^xsd:float ;
+    aqi:PM25Concentration "25.5"^^xsd:float ;
+    dcterms:date "29/08/2023,17:14:17"^^xsd:dateTime ;
+    geo1:lat "34.5494"^^xsd:float ;
+    geo1:long "69.1526"^^xsd:float .
+
+<http://aqi.com/id/41.3178;19.8203;29/08/2023,17:14:18> a aqi:Observation ;
+    aqi:COConcentration "223.64"^^xsd:float ;
+    aqi:NO2Concentration "1.35"^^xsd:float ;
+    aqi:OzoneConcentration "88.69"^^xsd:float ;
+    aqi:PM10Concentration "5.49"^^xsd:float ;
+    aqi:PM25Concentration "4.04"^^xsd:float ;
+    dcterms:date "29/08/2023,17:14:18"^^xsd:dateTime ;
+    geo1:lat "41.3178"^^xsd:float ;
+    geo1:long "19.8203"^^xsd:float .
+
